@@ -26,7 +26,7 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gmv65nxUV9rPmaJRuu4GL77Czoqvh9Qv0g&usqp=CAU" alt="next.js" width="40" height="40"/> </a>
   <a href="https://nextjs.org/docs/pages/building-your-application/routing/authenticating" target="_blank" rel="noreferrer"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="AuthNext.js" width="40" height="40"/> </a>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FCEcUESKi3SjJimSJU9nyP6LZ-3WAuE4g3QgOXpwykHqCrptEhY5tdYzl_p7w-cr8bg&usqp=CAU" alt="redux" width="40" height="40"/> </a>
-  <a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="trpc" width="40" height="40"/> </a>
+  <a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://trpc.io/img/logo.svg" alt="trpc" width="40" height="40"/> </a>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src=" https://trpc.io/img/logo.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://itproger.com/intensive/img/express.png" alt="express" width="40" height="40"/> </a>
   <a href="https://graphql.org/brand/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nkU0GvK3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.postimg.cc/SQCCBw0Q/graphql-with-text-small.png" alt="graphql" width="40" height="40"/> </a>
@@ -34,5 +34,5 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://openai.com/blog/chatgpt" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuApi6Ni3QyUd9xfADzqtAPMHO-bSXk-ftdc_3k6QIJp_SWwE3erIqeC00azt6KjopG0&usqp=CAU" alt="ChatGPT" width="70" height="40"/> </a>
- <a href="https://wwebjs.dev/" target="_blank" rel="noreferrer"> <img src=" https://wwebjs.dev/logo.png" alt="wwebjs" width="40" height="40"/> </a></p>
+ <a href="https://wwebjs.dev/" target="_blank" rel="noreferrer"> <img src="https://wwebjs.dev/logo.png" alt="wwebjs" width="40" height="40"/> </a></p>
 <br/><br/>
