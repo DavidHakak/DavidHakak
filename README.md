@@ -32,5 +32,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://openai.com/blog/chatgpt" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuApi6Ni3QyUd9xfADzqtAPMHO-bSXk-ftdc_3k6QIJp_SWwE3erIqeC00azt6KjopG0&usqp=CAU" alt="ChatGPT" width="70" height="40"/> </a> </p>
+  <a href="https://openai.com/blog/chatgpt" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuApi6Ni3QyUd9xfADzqtAPMHO-bSXk-ftdc_3k6QIJp_SWwE3erIqeC00azt6KjopG0&usqp=CAU" alt="ChatGPT" width="70" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=" https://wwebjs.dev/logo.png" alt="git" width="40" height="40"/> </a></p>
 <br/><br/>
